@@ -8,6 +8,7 @@ function Footer() {
             className="grey-text text-lighten-4 right"
             href="https://github.com/MrBohdanUA/movies-app-react"
             target="_blank"
+            rel="noreferrer"
           >
             Repo
           </a>
